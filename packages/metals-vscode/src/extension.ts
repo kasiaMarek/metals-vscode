@@ -406,6 +406,7 @@ function launchMetals(
     markdown: {
       isTrusted: true,
     },
+    diagnosticCollectionName: "Metals",
   };
 
   function hoverLinksMiddlewareHook(
